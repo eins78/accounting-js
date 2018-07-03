@@ -4,6 +4,7 @@
   "description": "Number, money and currency formatting library.",
   "main": "dist/accounting.umd.js",
   "jsnext:main": "lib/index.js",
+  "module": "lib/index.js",
   "scripts": {
     "predoc": "rimraf docs",
     "doc": "esdoc -c esdoc.json",
